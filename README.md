@@ -14,4 +14,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesutruzgar&show_icons=true&locale=en" alt="mesutruzgar" /></p>
 
-![snake gif](https://github.com/MesutRuzgar/MesutRuzgar/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MesutRuzgar/MesutRuzgar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MesutRuzgar/MesutRuzgar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MesutRuzgar/MesutRuzgar/output/github-contribution-grid-snake.svg">
+</picture>
