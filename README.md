@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesutruzgar&show_icons=true&locale=en" alt="mesutruzgar" /></p>
 
-
+![snake gif](https://github.com/MesutRuzgar/MesutRuzgar/blob/output/github-contribution-grid-snake.gif)
