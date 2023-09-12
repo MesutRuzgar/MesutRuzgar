@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mesut RUZGAR</h1>
 <h3 align="center">Software Developer Candidate</h3>
 
+- 🌍  I'm based in Istanbul/Turkey
+- 📫 You can contact me at **mesutrzgarr@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mesutrzgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mesutrzgar" height="30" width="40" /></a>
