@@ -4,7 +4,7 @@
 - 🌍  I'm based in Istanbul/Turkey
 - 📫 You can contact me at **mesutrzgarr@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mesutruzgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mesutruzgar" height="30" width="40" /></a>
 <a href="https://twitter.com/mesutrzgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="mesutrzgar" height="30" width="40" /></a>
